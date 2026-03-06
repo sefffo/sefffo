@@ -1,8 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Saif%20Lotfy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20.NET%20%26%20Node.js%20%7C%20Systems%20Architect&descAlignY=62&descSize=20" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+.NET+%26+Node.js;Clean+Architecture+%7C+Microservices+Architect;OOP+Expert+%7C+Design+Patterns+Practitioner;GPA+3.72+%7C+Top+%233+in+CS+Department+%F0%9F%8F%86;Building+Systems+That+Scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+<h1>👋 Hey, I'm Saif Lotfy</h1>
+<h3>⚙️ Full Stack Engineer &nbsp;·&nbsp; .NET & Node.js &nbsp;·&nbsp; Systems Architect</h3>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+.NET+%26+Node.js;Clean+Architecture+%7C+Microservices+Architect;OOP+Expert+%7C+Design+Patterns+Practitioner;GPA+3.72+%7C+Top+%233+in+CS+Department+%F0%9F%8F%86;Building+Systems+That+Scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sefffo&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -133,8 +140,10 @@ I'm **Saif Lotfy** — a **Computer Science student** and **Full Stack Engineer*
 ### ✍️ Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=sefffo&icon=6&color=6)](https://visitcount.itsvg.in)
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=140&section=footer" />
+---
+
+<div align="center">
+<i>"Code is not just syntax — it's architecture, discipline, and vision."</i>
+</div>
