@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Saif%20Lotfy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20.NET%20%26%20Node.js%20%7C%20Systems%20Architect&descAlignY=62&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Saif%20Lotfy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20.NET%20and%20Node.js%20%7C%20Systems%20Architect&descAlignY=62&descSize=20" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+.NET+%26+Node.js;Clean+Architecture+%7C+Microservices+Architect;OOP+Expert+%7C+Design+Patterns+Practitioner;GPA+3.72+%7C+Top+%233+in+CS+Department+%F0%9F%8F%86;Building+Systems+That+Scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+.NET+and+Node.js;Clean+Architecture+%7C+Microservices+Architect;OOP+Expert+%7C+Design+Patterns+Practitioner;GPA+3.72+%7C+Top+%233+in+CS+Department+%F0%9F%8F%86;Building+Systems+That+Scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@ I'm **Saif Lotfy** — a **Computer Science student** and **Full Stack Engineer*
 
 - 🎓 **Junior CS Student** | **GPA: 3.72 / 4.0** | 🏆 **Ranked #3 in My College**
 - 🏗️ **Full Stack Engineer** — strong backend focus with real frontend capability
-- 🔧 Backend ecosystems: **.NET (ASP.NET Core)** & **Node.js (NestJS)**
+- 🔧 Backend ecosystems: **.NET (ASP.NET Core)** and **Node.js (NestJS)**
 - 🔬 Deep expertise in **OOP**, **Clean Architecture**, **Microservices**, and **Design Patterns**
 - ⚡ I build things that are **scalable**, **testable**, and **maintainable by design**
 - 📍 Cairo, Egypt
