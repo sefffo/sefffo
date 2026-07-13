@@ -12,7 +12,7 @@
 
 I'm **Saif Lotfy** — a **Computer Science student** and **Full Stack Engineer** who doesn't just write code, I design systems. With a **GPA of 3.72** and ranked **#3 in my CS department**, I merge academic excellence with real-world engineering discipline. My passion lives at the intersection of clean architecture, solid OOP principles, scalable APIs, and battle-tested design patterns — across both the **.NET** and **Node.js** ecosystems.
 
-- 🎓 **Junior CS Student** | **GPA: 3.72 / 4.0** | 🏆 **Ranked #3 in My College**
+- 🎓 **Senior CS Student** | **GPA: 3.72 / 4.0** | 🏆 **Ranked #2 in My College**
 - 🏗️ **Full Stack Engineer** — strong backend focus with real frontend capability
 - 🔧 Backend ecosystems: **.NET (ASP.NET Core)** and **Node.js (NestJS)**
 - 🔬 Deep expertise in **OOP**, **Clean Architecture**, **Microservices**, and **Design Patterns**
